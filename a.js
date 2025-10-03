@@ -6,8 +6,8 @@ const REPL_URL = "wss://eval.spock.platform.replit.com/wsv2/v2.public.Q2dZSTllMz
 const SESSION_COOKIE = process.env.SESSION_COOKIE;
 
 const STOP_START_PAUSE_SECONDS = 3;
-const MIN_MINUTES = 2.0;
-const MAX_MINUTES = 4.0;
+const MIN_MINUTES = 9.2;
+const MAX_MINUTES = 14.7;
 const INITIAL_WAIT_SECONDS = 2;
 // ---------------------------------------------------------------
 
